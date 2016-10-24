@@ -11,7 +11,7 @@ description: A blog about technology and stuff related
 external-image: false
 picture: assets/images/profile.jpg
 
-url: sirgandal.github.io
+url: https://github.com/SirGandal
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
