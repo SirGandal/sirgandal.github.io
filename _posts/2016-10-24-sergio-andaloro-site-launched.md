@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sergio Andaolro, Launches Site"
+title: "Sergio Andaloro, Launches Site"
 date: 2016-10-24
 ---
 
