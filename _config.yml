@@ -27,7 +27,6 @@ highlighter: rouge
 
 # if you don't want comments in your posts, set to false
 # disqus: mydisqus
-disqus: false
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
@@ -64,6 +63,12 @@ about: true
 blog: false
 resume: false
 
+author:
+    sirgandal:
+        name: Sergio Andaloro
+        external-image: false
+        picture: assets/images/profile.jpg
+
 # do you want to show the "read time" of the posts?
 read-time: true
 
@@ -71,13 +76,13 @@ read-time: true
 show-tags: true
 
 # related posts inside a post?
-related: true
+related: false
 
 # show next & prev links in blog post?
 blog-nav-links: false
 
 # show author block at the end of a post ?
-show-author: true
+# show-author: true
 
 # do you want some animations?
 animation: true
